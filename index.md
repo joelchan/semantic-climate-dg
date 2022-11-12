@@ -1,0 +1,6 @@
+[[IPCC_AR6_WGIII_Chapter_02]]
+- [[Providing access to modern energy services universally would increase global GHG emissions by at most a few percent]]
+	- [[The additional energy demand needed to support decent living standards for all is estimated to be well below current average energy consumption]]
+	- [[More equitable income distributions can reduce carbon emissions, but the nature of this relationship can vary by level of income and development]]
+- [[It is possible to coordinate internationally to substantially reduce emissions of particular substances]]
+	- [[CFC levels dropped precipitously over the course of 10 years in response to coordinated policies to ban the substance]]

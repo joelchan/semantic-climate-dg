@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "7ceb0e14b254c7e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "320ebb242555742b",
+        "type": "tabs",
+        "dimension": 38.603988603988604,
+        "children": [
+          {
+            "id": "94758d6956ada30e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4985cf1acb63fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "evidence/CFC levels dropped precipitously over the course of 10 years in response to coordinated policies to ban the substance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d970f406ff4f788",
+        "type": "tabs",
+        "dimension": 61.3960113960114,
+        "children": [
+          {
+            "id": "c83b6f0ad3ea5423",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "829b4a5e66192809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e45e32f0818e04b",
+    "type": "split",
+    "children": [
+      {
+        "id": "02ae8cd3a6d0a61e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f387cc87847d09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c9ae557c999b57f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcf756ec672dd0e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.50043487548828
+  },
+  "right": {
+    "id": "2200e60328cedcae",
+    "type": "split",
+    "children": [
+      {
+        "id": "54fb85d946b4f6be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f33c1938e2b77065",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16f645afaa3cdb77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "989a9b97565c79ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b5df28498feb09c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "94758d6956ada30e",
+  "lastOpenFiles": [
+    "conclusions/Providing access to modern energy services universally would increase global GHG emissions by at most a few percent.md",
+    "index.md",
+    "README.md",
+    "evidence/CFC levels dropped precipitously over the course of 10 years in response to coordinated policies to ban the substance.md",
+    "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
+    "assets/Figure-2.3.png",
+    "claims/More equitable income distributions can reduce carbon emissions, but the nature of this relationship can vary by level of income and development.md",
+    "claims/The additional energy demand needed to support decent living standards for all is estimated to be well below current average energy consumption.md"
+  ]
+}
