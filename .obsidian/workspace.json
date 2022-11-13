@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md"
+                "file": "README.md"
               }
             }
           }
@@ -179,11 +179,11 @@
   },
   "active": "94758d6956ada30e",
   "lastOpenFiles": [
+    "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
     "conclusions/Providing access to modern energy services universally would increase global GHG emissions by at most a few percent.md",
     "index.md",
     "README.md",
     "evidence/CFC levels dropped precipitously over the course of 10 years in response to coordinated policies to ban the substance.md",
-    "claims/It is possible to coordinate internationally to substantially reduce emissions of particular substances.md",
     "assets/Figure-2.3.png",
     "claims/More equitable income distributions can reduce carbon emissions, but the nature of this relationship can vary by level of income and development.md",
     "claims/The additional energy demand needed to support decent living standards for all is estimated to be well below current average energy consumption.md"

@@ -12,3 +12,8 @@ These can then be used as a substrate to build more navigable and explorable (vi
 
 Current state example:
 ![[example-IPCC-discourse-graph.png]]
+
+Connects to:
+- https://www.ipcc.ch/report/ar6/wg3/
+- https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter_02.pdf
+- and https://github.com/petermr/semanticClimate/tree/main/ipcc/ar6/wg3/Chapter02
